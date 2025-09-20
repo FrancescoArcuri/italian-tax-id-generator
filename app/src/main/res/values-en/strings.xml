@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fiscal Code Generator</string>
+    <string name="start_message">Calculate Fiscal Code</string>
+    <string name="start_button">Start</string>
+    <string name="request">Insert Data</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="Birthplace">Birth Place</string>
+    <string name="acronym">Province</string>
+    <string name="date">dd/mm/yyyy</string>
+    <string name="maschio">M</string>
+    <string name="femmina">F</string>
+    <string name="button_calculate">Calculate</string>
+</resources>
